@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azsharaz 
+- 👋 Hi, I’m Selen
 - 👀 I’m interested in QA branch
 - 🌱 I’m currently learning Java 
 - 📫 Feel free to ask me anything! :)
