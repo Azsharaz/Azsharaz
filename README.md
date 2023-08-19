@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azsharaz 
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in QA branch
 - 🌱 I’m currently learning Java 
 - 📫 Feel free to ask me anything! :)
 
