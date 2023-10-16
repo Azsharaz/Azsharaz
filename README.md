@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Azsharaz
-- 👀 I’m interested in QA branch
-- 🌱 I’m currently learning Java 
-- 📫 Feel free to ask me anything! :)
+System.out.println("Hello World")
 
 <!---
 Azsharaz/Azsharaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
