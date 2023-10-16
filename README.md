@@ -28,16 +28,19 @@ I'm an aspirant developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Replit, read tech articles and go to gym.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Selen-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/selenozturk)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Selen-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/selenozturk)
 
 
 ---
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="Java" height="100" style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="90" style="vertical-align:top; margin:10px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" alt="Selenium" height="90" style="vertical-align:top; margin:10px">
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg" alt="Java" height="55" style="vertical-align:top; margin:10px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="50" style="vertical-align:top; margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" alt="Selenium" height="50" style="vertical-align:top; margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" style="vertical-align:top; margin:10px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/illustrator/illustrator-line.svg" alt="Illustrator" height="50" style="vertical-align:top;
+      margin:10px">
+ </p>
 
 ---
 
