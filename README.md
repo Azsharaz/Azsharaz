@@ -2,8 +2,9 @@ System.out.println("Hello World!")
 
 
 
-<div id="header" align="center">
-  <img src="</div>https://media.tenor.com/2oypQa58bVIAAAAC/azshara-thinking-azshara.gif" width="100"/>
+<p align="center">
+  <img src="</div>https://media.tenor.com/2oypQa58bVIAAAAC/azshara-thinking-azshara.gif" width="100">
+  </p>
 
 
 
