@@ -21,14 +21,14 @@
 
 ---
 
-### :computer: About Me:
+### 🌸 About Me:
 
 I'm an SDET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m currently exploring and studying test automation path to jump into the IT world.
 
 - :zap: In my free time I solve problems on Replit, read tech articles, do some gaming and go to gym.
 
-- :email: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Selen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selen-%C3%B6-8615b5284/)
+- ✉️ How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Selen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selen-%C3%B6-8615b5284/)
 
 - :space_invader: My Discord tag: Astramentis#2298
 
@@ -46,7 +46,7 @@ I'm an SDET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 
 ---
 
-### :fire: My Stats:
+###  🔍  My Stats:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Azsharaz&amp;theme=jolly&amp;show_icons=true" alt="Anurag&#39;s GitHub stats"></p>
 
