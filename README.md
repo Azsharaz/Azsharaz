@@ -33,15 +33,7 @@ I'm an SDET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 - :space_invader: My Discord tag: Astramentis#2298
 
 
----
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg" alt="Java" height="55" style="vertical-align:top; margin:10px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="50" style="vertical-align:top; margin:10px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" alt="Selenium" height="50" style="vertical-align:top; margin:10px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" style="vertical-align:top; margin:10px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/illustrator/illustrator-line.svg" alt="Illustrator" height="50" style="vertical-align:top;
-      margin:10px">
+
  </p>
 
 ---
