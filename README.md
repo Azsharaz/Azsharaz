@@ -23,7 +23,7 @@
 
 ### 🌸 About Me:
 
-I'm an SDET <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I'm a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m currently exploring and studying test automation path to jump into the IT world.
 
 - :zap: In my free time I solve problems on Replit, read tech articles, do some gaming and go to gym.
