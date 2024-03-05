@@ -28,7 +28,6 @@ I'm a QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 - :zap: In my free time I solve problems on Replit, read tech articles, do some gaming and go to gym.
 
-- ✉️ How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Selen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selen-%C3%B6-8615b5284/)
 
 - :space_invader: My Discord tag: Astramentis#2298
 
